@@ -8,8 +8,9 @@ import mkdocs.commands.build
 import mkdocs.commands.serve
 import mkdocs.config
 import mkdocs.utils
-import typer
 import yaml
+
+import typer
 
 app = typer.Typer()
 
